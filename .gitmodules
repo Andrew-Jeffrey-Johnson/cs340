@@ -1,0 +1,3 @@
+[submodule "cs340p3"]
+	path = cs340p3
+	url = git@github.com:Andrew-Jeffrey-Johnson/cs340p3.git
